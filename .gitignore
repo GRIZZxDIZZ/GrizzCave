@@ -1,14 +1,14 @@
-# Numerous always-ignore extensions
+# Numerous always-ignore extensions>
 *.diff
-*.err
+*.err<
 *.orig
-*.log
+*.log >
 *.rej
-*.swo
+*.swo  <
 *.swp
-*.vi
+*.>vi
 *~
-*.sass-cache
+*.sass<-cache
 node_modules/
 .tmp/
 
@@ -27,3 +27,4 @@ nbproject
 .komodotools
 _notes
 dwsync.xml
+/.metadata/
